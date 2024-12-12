@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GT Parking Viewer</string>
+    <string name="parking_image">Parking Image</string>
+    <string name="TopBarFloorText">Floor 1</string>
+    <string name="Floor1Text">1</string>
+    <string name="Floor2Text" />
+    <string name="Floor3Text">3</string>
+    <string name="ContentDescriptionLeftArrow">Left Arrow for Bottom Bar</string>
+    <string name="ContentDescriptionRightArrow">Right Arrow for Bottom Bar</string>
+    <string name="ContentDescriptionLockImage">Lock/Unlock ImageView</string>
 </resources>
