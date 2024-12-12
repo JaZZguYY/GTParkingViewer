@@ -59,7 +59,7 @@
             android:rotation="180"
             android:scaleX="0.5"
             android:scaleY="0.5"
-            app:srcCompat="@drawable/arrow_icon_1174" />
+            app:srcCompat="@drawable/arrow" />
 
         <ViewAnimator
             android:id="@+id/NumberDisplay"
@@ -111,7 +111,7 @@
             android:contentDescription="@string/ContentDescriptionRightArrow"
             android:scaleX="0.5"
             android:scaleY="0.5"
-            app:srcCompat="@drawable/arrow_icon_1174" />
+            app:srcCompat="@drawable/arrow" />
 
         <Space
             android:layout_width="0dp"
